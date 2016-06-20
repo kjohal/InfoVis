@@ -6,7 +6,7 @@ For information about the Visualization please see "\InfoVis\Documents\CSC485D-P
 
 Team Members
 Jordan Lerner
-Kyle Johal
+Kyle P. Johal
 Brent Cameron
 Brad Fockler
 
